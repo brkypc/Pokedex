@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Challenge3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemons">Pokemonlar</string>
+    <string name="connection_error">İnternet Bağlantısı Hatası</string>
+    <string name="first_run_internet">Uygulama ilk çalıştırma için internet bağlantısı gereklidir.</string>
+    <string name="retry">Yenile</string>
+    <string name="first_page_internet">Daha önceden yüklenmeyen sayfalar için internet gereklidir.</string>
+    <string name="close">Kapat</string>
+    <string name="first_pokemon_internet">Daha önceden yüklenmeyen pokemonlar için internet gereklidir.</string>
+    <string name="back">Geri</string>
+    <string name="ability">Ability</string>
+    <string name="type">Type</string>
+    <string name="hp">HP</string>
+    <string name="sample_progress">50</string>
+    <string name="atk">Atk</string>
+    <string name="def">Def</string>
+    <string name="sp_atk">SpAtk</string>
+    <string name="sp_def">SpDef</string>
+    <string name="speed">Speed</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
