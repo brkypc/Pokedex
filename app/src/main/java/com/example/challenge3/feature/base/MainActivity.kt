@@ -16,7 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        
+        // This project will be rewritten with Navigation Component
         supportFragmentManager.beginTransaction().replace(R.id.fragment_container, PokemonListFragment()).commit()
     }
 }
